@@ -1,7 +1,7 @@
 import requests
 
 from bs4 import BeautifulSoup
-url = "https://codewithharry.com"
+url = "https://google.com"
 
 
 r = requests.get(url)
